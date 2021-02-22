@@ -1544,5 +1544,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerHandle: {fileID: 969965998}
   playerAge: {fileID: 2052982715}
-  playerName: mike
+  playerName: player name
   myAge: 0
